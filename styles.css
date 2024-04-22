@@ -1,0 +1,52 @@
+body {
+    margin: 25px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 14px;
+	
+    /*
+    Reminder: Google search "web safe font" to find other fonts to use
+    */
+}
+.avatar {
+    width: 210px;
+	height: 210px;
+	margin-top: 4px;
+}
+
+.card {
+    width: 460px;
+    margin: 0 auto;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #BE6E46;
+    color: #FCFC62;
+    border-bottom: 3px solid #FF9B42;
+	border-right: 3px solid #FF9B42;
+    border-radius: 8px;
+    /*
+    Reminder: Find good color palette's to use on Coolors.co
+    */
+}
+ul.circle {
+	margin-left: -20px;
+	text-align: left;
+	list-style-type: circle;
+}
+
+.border-blue {
+    border: 1px dotted #B8D5B8;
+}
+
+/*
+Reminders:
+
+Find other ways to personalize design of business card, e.g.:
+- change the border(s)
+- add border radius
+- shuffle the layout
+- shadows        
+- hover effects  
+- animations     
+*/
